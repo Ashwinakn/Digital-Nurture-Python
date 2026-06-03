@@ -1,10 +1,12 @@
----
+# Python 3 Programming Exercises
 
 This repository contains solutions for **55 Python Programming Exercises** covering fundamentals, data structures, object-oriented programming, file handling, error handling, modules, and real-world application simulations.
 
 The exercises are designed to strengthen problem-solving skills and practical Python development.
 
 ---
+
+# Topics Covered
 
 ## Python Basics
 - Installing Python
@@ -88,8 +90,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 <img src="images/2(2).jpg" width="500">
 
-<img src="images/2(3).jpg" width="500">
-
+<img src="images/3(3).jpg" width="500">
 
 ---
 
@@ -100,7 +101,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 <img src="images/3(2).jpg" width="500">
 
-<img src="images/3(3).jpg" width="500">
+
 
 
 ---
@@ -540,8 +541,8 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 ---
 
 # Author
-**Ashwin A K N**
+**Ashwina K N**
 
-B.E. CSE (IoT)  
+B.Tech Artificial Intelligence and Data Science 
 Saveetha Engineering College
 
