@@ -90,8 +90,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 <img src="images/2(2).jpg" width="500">
 
-<img src="images/2(3).jpg" width="500">
-
+<img src="images/3(3).jpg" width="500">
 
 ---
 
@@ -102,7 +101,7 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 <img src="images/3(2).jpg" width="500">
 
-<img src="images/3(3).jpg" width="500">
+
 
 
 ---
